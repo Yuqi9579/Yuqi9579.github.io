@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      This is title
-subtitle:   This is subtitle
-date:       2019-04-21
-author:     Wang Pei
+title:      Linux Command for Text Processing
+subtitle:   Some useful commands
+date:       2020-03-10
+author:     Yuqi
 header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
-    - Tylor
+    - Linux
+    - Text Processing
 ---
 
 
