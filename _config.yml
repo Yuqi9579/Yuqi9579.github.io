@@ -1,9 +1,9 @@
 # Site settings
 title: YUQI
-SEOTitle: 我的博客 | My Blog
+SEOTitle: YUQI
 header-img: img/IMG_1046.jpg
 email: liyuqi9@live.com
-description: "写一句你想写的话"
+description: "The way out is through."
 keyword: "我的博客"
 url: "http://yuqi9579.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
